@@ -1,0 +1,18 @@
+.img {
+    height: 8vmin;
+    pointer-events: none;
+}
+
+.header {
+    background-color: #282c34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.headerItem {
+    margin-left: 10px;
+    margin-right: 10px;
+}
